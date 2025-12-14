@@ -1,0 +1,2 @@
+matplotlib<3.9
+obp==0.5.7
