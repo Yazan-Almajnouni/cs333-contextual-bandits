@@ -2,7 +2,6 @@
 
 This repository contains the Python implementations of the algorithms described in the final report, as well as the code used to generate the figures and plots presented in the report.
 
----
 
 ## Repository Contents
 
@@ -11,7 +10,6 @@ This repository contains the Python implementations of the algorithms described 
 - Evaluation code for real-world logged bandit data
 - Plotting code used to generate the figures included in the report
 
----
 
 ## Dataset Setup (Required)
 
@@ -27,7 +25,6 @@ To run the experiments on real data, you must download the **Open Bandit Dataset
 
 The code assumes the dataset is available locally.
 
----
 
 ## Installation
 
@@ -41,7 +38,6 @@ pip install -r requirements.txt
 
 The code was tested with Python 3.9.
 
----
 
 ## How to Run
 
